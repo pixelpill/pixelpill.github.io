@@ -1,2 +1,2 @@
 # pixelpill.github.io
-A homepage site with all my projects
+A homepage site with all my projects (and project shoutouts)
